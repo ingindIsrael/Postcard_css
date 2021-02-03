@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+   
+}
+#wrapper {
+    background-color: white;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    margin-top: 5%;
+    font-family: 'Brush Script MT', cursive;
+    
+}
+#top {
+    margin: auto;
+    height: 20%;
+    display: flex;
+}
+#top h1 {
+    width: 80%;
+    margin: auto;
+    
+}
+#top img {
+    width: 60px;
+    display: inline;
+    margin: auto;
+}
+#mid {
+    margin: auto;
+    height: 60%;
+    display: flex;
+}
+#mid #l {
+    margin: auto;
+    margin-top: 0px;
+    padding: 20px;
+    width: 80%;
+}
+#l p {
+    margin-top: 0px;
+    font-size: large;
+}
+#mid #r {
+    margin: auto;
+    margin-top: 0;
+    padding: 20px;
+    width: 80%;
+}
+#r input {
+    margin: 5px;
+    height: 30px;
+    width: 95%;
+    border: none;
+    border-bottom: 1px solid gray;
+    font-size: large;
+}
+#foot {
+    margin: auto;
+    height: 20%;
+    display: flex;
+}
+#foot button {
+    margin: auto;
+    font-size: large;
+    background-color: lightgray;
+    border: none;
+    border-bottom: 1px solid black;
+
+}
